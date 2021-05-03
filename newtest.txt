@@ -1,0 +1,5 @@
+This a new text file. 
+
+I don't know why the other one turned out to be a binary file.
+
+Trying again.
